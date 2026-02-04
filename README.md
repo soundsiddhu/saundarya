@@ -21,7 +21,7 @@ Missing Values: A check is performed to identify any null entries.
 Type Casting: 'Age' is explicitly converted to an integer format to ensure mathematical consistency.
 
 3. Descriptive Statistics:
-We calculate five key metrics for the Age, AnnualIncome, and SpendingScore columns:
+We calculate five key metrics for the Age, Annual Income, and Spending Score columns:
 
 Mean: The average value of the data.
 
